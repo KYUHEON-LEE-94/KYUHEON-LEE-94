@@ -1,9 +1,14 @@
 # Intro
-Hi I'm Web Developer! use Java, Kotlin, python, Go
-Well.. honestly python, Go are studying..
-I worked about 2 years as developer. So junior
+Hi I'm Web Developer! use Java, Kotlin, python, Go  
+Well.. honestly python, Go are studying..  
+I worked about 2 years as developer. So junior  
 
 I hope study every new one
+
+
+
+<a href="[링크](https://blog.naver.com/panpan68)"><img src="https://img.shields.io/badge/Naver Blog-3DDC84?style=flat-square&logo=Naver Blog&logoColor=white"/></a>
+
 
 ## Skills
 
