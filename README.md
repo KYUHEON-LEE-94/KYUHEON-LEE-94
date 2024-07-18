@@ -5,9 +5,7 @@ I worked about 2 years as developer. So junior
 
 I hope study every new one
 
-
-
-<a href="[링크](https://blog.naver.com/panpan68)"><img src="https://img.shields.io/badge/Naver Blog-3DDC84?style=flat-square&logo=Naver Blog&logoColor=white"/></a>
+<a href="https://blog.naver.com/panpan68"><img src="https://img.shields.io/badge/Naver Blog-3DDC84?style=flat-square&logo=Naver Blog&logoColor=white"/></a>
 
 
 ## ⚡ Skills
@@ -23,7 +21,6 @@ Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
-
 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
