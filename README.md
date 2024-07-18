@@ -1,4 +1,4 @@
-# Intro
+# 🌱 Intro
 Hi I'm Web Developer! use Java, Kotlin, python, Go  
 Well.. honestly python, Go are studying..  
 I worked about 2 years as developer. So junior  
@@ -10,7 +10,7 @@ I hope study every new one
 <a href="[링크](https://blog.naver.com/panpan68)"><img src="https://img.shields.io/badge/Naver Blog-3DDC84?style=flat-square&logo=Naver Blog&logoColor=white"/></a>
 
 
-## Skills
+## ⚡ Skills
 
 Platforms & Languages
 
@@ -25,17 +25,7 @@ Tools
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 
 
-<!--
-**KYUHEON-LEE-94/KYUHEON-LEE-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KYUHEON-LEE-94&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
