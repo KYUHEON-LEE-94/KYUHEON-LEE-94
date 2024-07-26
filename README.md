@@ -1,6 +1,6 @@
 # 🌱 Intro
 Hi I'm Web Developer! use Java, Kotlin, python, Go  
-Well.. honestly python, Go are studying..  
+honestly python, Go are studying..  
 I worked about 2 years as developer. So junior  
 
 I hope study every new one
