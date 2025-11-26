@@ -5,8 +5,6 @@ I worked about 2 years as developer. So junior
 
 I hope study every new one
 
-<a href="https://blog.naver.com/panpan68"><img src="https://img.shields.io/badge/Naver Blog-3DDC84?style=flat-square&logo=Naver Blog&logoColor=white"/></a>
-
 
 ## ⚡ Skills
 
